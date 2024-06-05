@@ -18,8 +18,9 @@ Features -
 Setup Instructions - 
 1. Prerequisites - Android Studio should be installed on the computer and an Android device or emulator for testing.
 2. Download the zip file which contains the project and extract it to get the project files.
-3. Go to android studio and open the Project in android studio:
-4. At last run the app
+3. Go to android studio and open the Project in android studio,
+4. At last run the app and it will display the weather of my location.
+5. To Search the weather of a new city click on location box and it will redirect to search page.
 
 Testing - 
 
