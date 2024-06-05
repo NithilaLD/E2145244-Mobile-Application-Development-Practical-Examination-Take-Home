@@ -29,9 +29,9 @@ Verified accuracy of location and weather data.
 
 My Address - 206, Galkanuwa Road, Gorakana, Panadura
 
-Longitude - 6.762668
+Lattitude - 6.762668
 
-Lattitude - 79.908593
+Longitude - 79.908593
 
 
 Contact - 
