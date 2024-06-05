@@ -36,4 +36,4 @@ Longitude - 79.908593
 
 
 Contact - 
-For any inquiries or feedback, please contact e2145244@bit.uom.com
+For any inquiries or feedback, please contact e2145244@bit.uom.lk
